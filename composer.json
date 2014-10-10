@@ -16,6 +16,6 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.2.0",
-        "neilcrookes/CakePHP-HABTM-Counter-Cache-Plugin": "dev-master"
+        "neilcrookes/habtm-counter-cache-plugin": "dev-master"
     }
 }

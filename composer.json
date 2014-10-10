@@ -1,0 +1,21 @@
+{
+    "name": "neilcrookes/CakePHP-Blog-Plugin",
+    "type": "cakephp-plugin",
+    "description": "A CakePHP blog plugin for CakePHP2.0+",
+    "keywords": [
+        "cakephp"
+    ],
+    "homepage": "https://github.com/neilcrookes/CakePHP-Blog-Plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Neil Crookes",
+            "homepage": "http://www.neilcrookes.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2.0",
+        "neilcrookes/CakePHP-HABTM-Counter-Cache-Plugin": "dev-master"
+    }
+}
